@@ -111,3 +111,16 @@
 Я немного отступил от задания и принял решение не создавать базу известных сущностей но переименованных. А попробовать научить систему работать с помощью RAG по вышеупомянутой теме.
 
 Подготовил документы с базой знаний в `knowledge_base\soviet_mountaineering`
+
+# Задание 3. Создание векторного индекса базы знаний
+
+- используемая модель: all-MiniLM-L6-v2 
+- размер эмбеддингов: 384 измерения
+- ссылка на репозиторий модели эмбеддинга: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+- ссылка на документацию класса langchain: https://python.langchain.com/api_reference/huggingface/embeddings/langchain_huggingface.embeddings.huggingface.HuggingFaceEmbeddings.html#langchain_huggingface.embeddings.huggingface.HuggingFaceEmbeddings
+- для сохранения индекса использую векторную БД Chroma
+
+Модуль c классами создания и загрузки и поиска по базе в `src\index.py`
+Блокнот со скриптами запускающими создание загрузку и поиск по базе в `indexing.ipynb`
+
+
