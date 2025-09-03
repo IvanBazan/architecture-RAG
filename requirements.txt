@@ -8,5 +8,5 @@ langchain-chroma==0.2.5
 sentence-transformers==5.1.0
 
 #LLM and RAG
-
+langchain==0.3.27
 langchain-ollama==0.3.7

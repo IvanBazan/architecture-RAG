@@ -23,7 +23,6 @@ class Phi3Client:
         )
     
     def ask(self, question: str) -> str:
-        """Выполняет запрос к модели и возвращает ответ"""
         if self.llm is None:
             self._initialize()
             

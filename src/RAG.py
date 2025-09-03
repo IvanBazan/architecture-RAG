@@ -1,0 +1,132 @@
+# phi3_rag.py
+import os
+from typing import Dict, Any
+from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.chains import RetrievalQA
+from langchain.prompts import PromptTemplate
+from langchain_ollama import ChatOllama
+
+DEFAULT_EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+
+PROMPT_TEMPLATE = (
+    """Ты — русскоязычный ассистент. Отвечай ТОЛЬКО на русском языке!
+    Используй информацию из контекста ниже для ответа на вопрос. Если в контексте есть ответ - используй его. Если информации недостаточно - скажи об этом.
+    КОНТЕКСТ:
+    {context}
+    ВОПРОС:
+    {question}
+    Ответ на русском языке:"""
+)
+
+class Phi3RAGClient:
+    def __init__(
+        self,
+        persist_directory: str = "./chroma_db",
+        collection_name: str = "soviet_mountaineering",
+        embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+        phi3_model: str = "phi3:mini",
+        temperature: float = 0.2,
+        k: int = 3,
+    ):
+        self.persist_directory = persist_directory
+        self.collection_name = collection_name
+        self.embedding_model = embedding_model
+        self.phi3_model = phi3_model
+        self.temperature = temperature
+        self.k = k
+        self.chain = None
+        
+    def _get_embeddings(self):
+        return HuggingFaceEmbeddings(
+            model_name=self.embedding_model,
+            model_kwargs={"device": "cpu"},
+            encode_kwargs={"normalize_embeddings": True},
+        )
+    
+    def _get_vectorstore(self):
+        embeddings = self._get_embeddings()
+        return Chroma(
+            persist_directory=self.persist_directory,
+            collection_name=self.collection_name,
+            embedding_function=embeddings,
+        )
+    
+    def _build_retriever(self):
+        vectorstore = self._get_vectorstore()
+        return vectorstore.as_retriever(search_kwargs={"k": self.k})
+    
+    def _get_phi3_ollama(self):
+        base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+        
+        return ChatOllama(
+            model=self.phi3_model,
+            base_url=base_url,
+            temperature=self.temperature,
+            num_ctx=4096,
+        )
+    
+    def _build_prompt(self):
+        return PromptTemplate(
+            template=PROMPT_TEMPLATE,
+            input_variables=["context", "question"],
+        )
+    
+    def initialize(self):
+        retriever = self._build_retriever()
+        llm = self._get_phi3_ollama()
+        prompt = self._build_prompt()
+
+        self.chain = RetrievalQA.from_chain_type(
+            llm=llm,
+            chain_type="stuff",
+            retriever=retriever,
+            return_source_documents=True,
+            chain_type_kwargs={"prompt": prompt},
+        )
+    
+    def ask(self, question: str) -> Dict[str, Any]:
+        if self.chain is None:
+            self.initialize()
+            
+        result = self.chain.invoke({"query": question})
+        
+        sources = []
+        for i, doc in enumerate(result.get("source_documents", []) or []):
+            meta = doc.metadata or {}
+            sources.append(
+                {
+                    "rank": i + 1,
+                    "source": meta.get("source", "unknown"),
+                    "content_preview": (doc.page_content[:200] + "...") if len(doc.page_content) > 200 else doc.page_content,
+                }
+            )
+        
+        return {
+            "answer": result.get("result"),
+            "sources": sources,
+        }
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Phi-3 Local RAG runner")
+    parser.add_argument("question", type=str, help="Текст запроса пользователя")
+    
+    args = parser.parse_args()
+
+    try:
+        client = Phi3RAGClient()
+        result = client.ask(args.question)
+
+        print(f"\nОтвет Phi-3:\n{result['answer'] or ''}")
+        if result["sources"]:
+            print("\nИсточники:")
+            for s in result["sources"]:
+                print(f"- {s['source']}: {s['content_preview']}")
+
+    except Exception as e:
+        print(f"Ошибка: {e}")
+
+if __name__ == "__main__":
+    main()
