@@ -1,4 +1,3 @@
-# phi3_rag.py
 import os
 from typing import Dict, Any
 from langchain_chroma import Chroma

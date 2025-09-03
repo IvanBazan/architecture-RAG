@@ -146,7 +146,9 @@ https://huggingface.co/microsoft/Phi-3-mini-4k-instruct#chat-format
 
 в `RAG.ipynb` приведен пример использования. По субъективным ощущениям ответы стали более структурные и полные.
 
+## реализация Chain-of-Thought (CoT)
 
+`src\RAG_CoT.py` - модуль RAG решения c использованием Few-shot и дополнением в виде Chain-of-Thought инструкций
+Шаблон промпта изменен.
 
-
-
+в `RAG.ipynb` приведен пример использования.
