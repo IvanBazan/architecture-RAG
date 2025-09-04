@@ -1,0 +1,1667 @@
+[
+  {
+    "chunk_id": "4ce6271c-79f0-42cd-a146-aec805d29df2",
+    "metadata": {
+      "source": "text.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\text.txt",
+      "document_type": "txt",
+      "file_size": 62,
+      "chunk_id": "4ce6271c-79f0-42cd-a146-aec805d29df2",
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "original_source": "text.txt"
+    },
+    "content_length": 62,
+    "word_count": 7
+  },
+  {
+    "chunk_id": "82b3c476-7a94-43a7-820c-422384ff6570",
+    "metadata": {
+      "source": "абалаковы Тяньшань.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\абалаковы Тяньшань.txt",
+      "document_type": "txt",
+      "file_size": 2244,
+      "chunk_id": "82b3c476-7a94-43a7-820c-422384ff6570",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "абалаковы Тяньшань.txt"
+    },
+    "content_length": 993,
+    "word_count": 149
+  },
+  {
+    "chunk_id": "097c9dc2-f045-4c4d-ac8d-7f7ee5c6d529",
+    "metadata": {
+      "source": "абалаковы Тяньшань.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\абалаковы Тяньшань.txt",
+      "document_type": "txt",
+      "file_size": 2244,
+      "chunk_id": "097c9dc2-f045-4c4d-ac8d-7f7ee5c6d529",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "абалаковы Тяньшань.txt"
+    },
+    "content_length": 998,
+    "word_count": 140
+  },
+  {
+    "chunk_id": "dbbbf01e-c04a-4cd1-9d41-6d9141bdb97e",
+    "metadata": {
+      "source": "абалаковы Тяньшань.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\абалаковы Тяньшань.txt",
+      "document_type": "txt",
+      "file_size": 2244,
+      "chunk_id": "dbbbf01e-c04a-4cd1-9d41-6d9141bdb97e",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "абалаковы Тяньшань.txt"
+    },
+    "content_length": 547,
+    "word_count": 72
+  },
+  {
+    "chunk_id": "5f4b8e30-e506-43b0-a3c1-141b62b429fc",
+    "metadata": {
+      "source": "балыбердин.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\балыбердин.txt",
+      "document_type": "txt",
+      "file_size": 3176,
+      "chunk_id": "5f4b8e30-e506-43b0-a3c1-141b62b429fc",
+      "chunk_index": 0,
+      "total_chunks": 4,
+      "original_source": "балыбердин.txt"
+    },
+    "content_length": 991,
+    "word_count": 136
+  },
+  {
+    "chunk_id": "b85f3a52-3cca-4f4b-b065-76088f724635",
+    "metadata": {
+      "source": "балыбердин.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\балыбердин.txt",
+      "document_type": "txt",
+      "file_size": 3176,
+      "chunk_id": "b85f3a52-3cca-4f4b-b065-76088f724635",
+      "chunk_index": 1,
+      "total_chunks": 4,
+      "original_source": "балыбердин.txt"
+    },
+    "content_length": 994,
+    "word_count": 143
+  },
+  {
+    "chunk_id": "3b897d8f-a835-4938-b1d2-a5dddae1a557",
+    "metadata": {
+      "source": "балыбердин.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\балыбердин.txt",
+      "document_type": "txt",
+      "file_size": 3176,
+      "chunk_id": "3b897d8f-a835-4938-b1d2-a5dddae1a557",
+      "chunk_index": 2,
+      "total_chunks": 4,
+      "original_source": "балыбердин.txt"
+    },
+    "content_length": 999,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "7d0f169a-7acf-45f0-ad2f-96b3188fae13",
+    "metadata": {
+      "source": "балыбердин.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\балыбердин.txt",
+      "document_type": "txt",
+      "file_size": 3176,
+      "chunk_id": "7d0f169a-7acf-45f0-ad2f-96b3188fae13",
+      "chunk_index": 3,
+      "total_chunks": 4,
+      "original_source": "балыбердин.txt"
+    },
+    "content_length": 634,
+    "word_count": 86
+  },
+  {
+    "chunk_id": "0da970ee-37b8-4a70-a1f6-a049785368ee",
+    "metadata": {
+      "source": "безенги.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\безенги.txt",
+      "document_type": "txt",
+      "file_size": 1329,
+      "chunk_id": "0da970ee-37b8-4a70-a1f6-a049785368ee",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "original_source": "безенги.txt"
+    },
+    "content_length": 989,
+    "word_count": 140
+  },
+  {
+    "chunk_id": "7ce9fc69-0d93-4c3b-a8d4-0c410ec3ec2a",
+    "metadata": {
+      "source": "безенги.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\безенги.txt",
+      "document_type": "txt",
+      "file_size": 1329,
+      "chunk_id": "7ce9fc69-0d93-4c3b-a8d4-0c410ec3ec2a",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "original_source": "безенги.txt"
+    },
+    "content_length": 483,
+    "word_count": 65
+  },
+  {
+    "chunk_id": "e6285808-260b-4dca-915e-b1804497c430",
+    "metadata": {
+      "source": "безенгийская стена.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\безенгийская стена.txt",
+      "document_type": "txt",
+      "file_size": 703,
+      "chunk_id": "e6285808-260b-4dca-915e-b1804497c430",
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "original_source": "безенгийская стена.txt"
+    },
+    "content_length": 703,
+    "word_count": 97
+  },
+  {
+    "chunk_id": "1b9c7db4-b9c8-4a0b-85e9-d284671c7561",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "1b9c7db4-b9c8-4a0b-85e9-d284671c7561",
+      "chunk_index": 0,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 997,
+    "word_count": 136
+  },
+  {
+    "chunk_id": "f638e9f1-d781-4087-a9c6-02de2adafd26",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "f638e9f1-d781-4087-a9c6-02de2adafd26",
+      "chunk_index": 1,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 989,
+    "word_count": 128
+  },
+  {
+    "chunk_id": "77711726-8332-4a7c-aa4f-97b178858485",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "77711726-8332-4a7c-aa4f-97b178858485",
+      "chunk_index": 2,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 996,
+    "word_count": 132
+  },
+  {
+    "chunk_id": "afb72ccd-e319-463e-84dd-e5f291f628df",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "afb72ccd-e319-463e-84dd-e5f291f628df",
+      "chunk_index": 3,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 999,
+    "word_count": 154
+  },
+  {
+    "chunk_id": "5221c79f-a363-4ce3-bf7f-48c47a3de3ec",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "5221c79f-a363-4ce3-bf7f-48c47a3de3ec",
+      "chunk_index": 4,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 994,
+    "word_count": 146
+  },
+  {
+    "chunk_id": "228c2612-684e-4f0c-887a-89a213d3df6e",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "228c2612-684e-4f0c-887a-89a213d3df6e",
+      "chunk_index": 5,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 999,
+    "word_count": 146
+  },
+  {
+    "chunk_id": "805510e5-3273-405f-9b0a-abac1bc13125",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "805510e5-3273-405f-9b0a-abac1bc13125",
+      "chunk_index": 6,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 999,
+    "word_count": 134
+  },
+  {
+    "chunk_id": "313f9d47-3e6d-464f-800a-7b7f49a3d65d",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "313f9d47-3e6d-464f-800a-7b7f49a3d65d",
+      "chunk_index": 7,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 1000,
+    "word_count": 127
+  },
+  {
+    "chunk_id": "36612a70-e2ce-442e-b197-38040e84fd4d",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "36612a70-e2ce-442e-b197-38040e84fd4d",
+      "chunk_index": 8,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 998,
+    "word_count": 117
+  },
+  {
+    "chunk_id": "356dfcdc-5309-4b30-a1da-3c09af954f07",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "356dfcdc-5309-4b30-a1da-3c09af954f07",
+      "chunk_index": 9,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 996,
+    "word_count": 133
+  },
+  {
+    "chunk_id": "ce939fc5-596b-49ac-b68f-632aeba06ecd",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "ce939fc5-596b-49ac-b68f-632aeba06ecd",
+      "chunk_index": 10,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 993,
+    "word_count": 142
+  },
+  {
+    "chunk_id": "3f636334-a902-4f89-a18b-42a92b70d059",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "3f636334-a902-4f89-a18b-42a92b70d059",
+      "chunk_index": 11,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 997,
+    "word_count": 139
+  },
+  {
+    "chunk_id": "08e8021d-be1a-4154-b791-3f3ed8c09607",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "08e8021d-be1a-4154-b791-3f3ed8c09607",
+      "chunk_index": 12,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 997,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "e778b9e8-ca11-4e49-ae92-eb32233022ec",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "e778b9e8-ca11-4e49-ae92-eb32233022ec",
+      "chunk_index": 13,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 993,
+    "word_count": 153
+  },
+  {
+    "chunk_id": "c08780e7-0947-4764-ab08-1f276094bb88",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "c08780e7-0947-4764-ab08-1f276094bb88",
+      "chunk_index": 14,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 995,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "1430dce2-3117-4855-8e58-b6230cc7ae4b",
+    "metadata": {
+      "source": "белуха.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\белуха.txt",
+      "document_type": "txt",
+      "file_size": 13188,
+      "chunk_id": "1430dce2-3117-4855-8e58-b6230cc7ae4b",
+      "chunk_index": 15,
+      "total_chunks": 16,
+      "original_source": "белуха.txt"
+    },
+    "content_length": 451,
+    "word_count": 60
+  },
+  {
+    "chunk_id": "a70af656-7459-492d-9979-0616b510bd6a",
+    "metadata": {
+      "source": "братья абалаковы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья абалаковы.txt",
+      "document_type": "txt",
+      "file_size": 2099,
+      "chunk_id": "a70af656-7459-492d-9979-0616b510bd6a",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "братья абалаковы.txt"
+    },
+    "content_length": 988,
+    "word_count": 127
+  },
+  {
+    "chunk_id": "af120081-58fc-4a25-88f9-87e3c771ac96",
+    "metadata": {
+      "source": "братья абалаковы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья абалаковы.txt",
+      "document_type": "txt",
+      "file_size": 2099,
+      "chunk_id": "af120081-58fc-4a25-88f9-87e3c771ac96",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "братья абалаковы.txt"
+    },
+    "content_length": 998,
+    "word_count": 127
+  },
+  {
+    "chunk_id": "6a1e750e-24c1-4a58-bd58-9baa6d28d2d0",
+    "metadata": {
+      "source": "братья абалаковы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья абалаковы.txt",
+      "document_type": "txt",
+      "file_size": 2099,
+      "chunk_id": "6a1e750e-24c1-4a58-bd58-9baa6d28d2d0",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "братья абалаковы.txt"
+    },
+    "content_length": 397,
+    "word_count": 54
+  },
+  {
+    "chunk_id": "917061d1-0d30-438e-8974-faae3d60fb8c",
+    "metadata": {
+      "source": "братья троновы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья троновы.txt",
+      "document_type": "txt",
+      "file_size": 1913,
+      "chunk_id": "917061d1-0d30-438e-8974-faae3d60fb8c",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "братья троновы.txt"
+    },
+    "content_length": 995,
+    "word_count": 136
+  },
+  {
+    "chunk_id": "f9a61ad1-0c2c-48bd-b02e-49de8848701f",
+    "metadata": {
+      "source": "братья троновы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья троновы.txt",
+      "document_type": "txt",
+      "file_size": 1913,
+      "chunk_id": "f9a61ad1-0c2c-48bd-b02e-49de8848701f",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "братья троновы.txt"
+    },
+    "content_length": 999,
+    "word_count": 142
+  },
+  {
+    "chunk_id": "38114be1-e5cb-4c47-9524-fe9dec81a825",
+    "metadata": {
+      "source": "братья троновы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\братья троновы.txt",
+      "document_type": "txt",
+      "file_size": 1913,
+      "chunk_id": "38114be1-e5cb-4c47-9524-fe9dec81a825",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "братья троновы.txt"
+    },
+    "content_length": 210,
+    "word_count": 29
+  },
+  {
+    "chunk_id": "e666ffa1-6d48-49e9-a6ca-827edd965ba3",
+    "metadata": {
+      "source": "валерий хрищатый.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\валерий хрищатый.txt",
+      "document_type": "txt",
+      "file_size": 2303,
+      "chunk_id": "e666ffa1-6d48-49e9-a6ca-827edd965ba3",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "валерий хрищатый.txt"
+    },
+    "content_length": 1000,
+    "word_count": 139
+  },
+  {
+    "chunk_id": "8f05c651-8549-496e-852e-b10b77025b3e",
+    "metadata": {
+      "source": "валерий хрищатый.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\валерий хрищатый.txt",
+      "document_type": "txt",
+      "file_size": 2303,
+      "chunk_id": "8f05c651-8549-496e-852e-b10b77025b3e",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "валерий хрищатый.txt"
+    },
+    "content_length": 996,
+    "word_count": 145
+  },
+  {
+    "chunk_id": "81ec73f2-46c3-4e7a-8970-34526010aa4b",
+    "metadata": {
+      "source": "валерий хрищатый.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\валерий хрищатый.txt",
+      "document_type": "txt",
+      "file_size": 2303,
+      "chunk_id": "81ec73f2-46c3-4e7a-8970-34526010aa4b",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "валерий хрищатый.txt"
+    },
+    "content_length": 598,
+    "word_count": 92
+  },
+  {
+    "chunk_id": "0f93cd73-694b-4136-8e4f-9067af220edf",
+    "metadata": {
+      "source": "гималаи.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\гималаи.txt",
+      "document_type": "txt",
+      "file_size": 3066,
+      "chunk_id": "0f93cd73-694b-4136-8e4f-9067af220edf",
+      "chunk_index": 0,
+      "total_chunks": 4,
+      "original_source": "гималаи.txt"
+    },
+    "content_length": 998,
+    "word_count": 125
+  },
+  {
+    "chunk_id": "f3d17732-671f-4521-8f1e-13c42c0e0113",
+    "metadata": {
+      "source": "гималаи.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\гималаи.txt",
+      "document_type": "txt",
+      "file_size": 3066,
+      "chunk_id": "f3d17732-671f-4521-8f1e-13c42c0e0113",
+      "chunk_index": 1,
+      "total_chunks": 4,
+      "original_source": "гималаи.txt"
+    },
+    "content_length": 998,
+    "word_count": 130
+  },
+  {
+    "chunk_id": "930ca0e1-2ab4-4c1a-b629-37c08a4580b3",
+    "metadata": {
+      "source": "гималаи.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\гималаи.txt",
+      "document_type": "txt",
+      "file_size": 3066,
+      "chunk_id": "930ca0e1-2ab4-4c1a-b629-37c08a4580b3",
+      "chunk_index": 2,
+      "total_chunks": 4,
+      "original_source": "гималаи.txt"
+    },
+    "content_length": 996,
+    "word_count": 121
+  },
+  {
+    "chunk_id": "b1b11f0d-363f-4c54-a563-d11883b8d7bb",
+    "metadata": {
+      "source": "гималаи.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\гималаи.txt",
+      "document_type": "txt",
+      "file_size": 3066,
+      "chunk_id": "b1b11f0d-363f-4c54-a563-d11883b8d7bb",
+      "chunk_index": 3,
+      "total_chunks": 4,
+      "original_source": "гималаи.txt"
+    },
+    "content_length": 511,
+    "word_count": 67
+  },
+  {
+    "chunk_id": "a8e15b99-2b41-4c35-94fd-3c3f1c74b30d",
+    "metadata": {
+      "source": "казбек валиев.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\казбек валиев.txt",
+      "document_type": "txt",
+      "file_size": 2513,
+      "chunk_id": "a8e15b99-2b41-4c35-94fd-3c3f1c74b30d",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "казбек валиев.txt"
+    },
+    "content_length": 998,
+    "word_count": 127
+  },
+  {
+    "chunk_id": "e49aca87-e5c3-4463-b654-b456360aba52",
+    "metadata": {
+      "source": "казбек валиев.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\казбек валиев.txt",
+      "document_type": "txt",
+      "file_size": 2513,
+      "chunk_id": "e49aca87-e5c3-4463-b654-b456360aba52",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "казбек валиев.txt"
+    },
+    "content_length": 994,
+    "word_count": 142
+  },
+  {
+    "chunk_id": "8152128a-afa7-44cb-9a34-1d888229c67b",
+    "metadata": {
+      "source": "казбек валиев.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\казбек валиев.txt",
+      "document_type": "txt",
+      "file_size": 2513,
+      "chunk_id": "8152128a-afa7-44cb-9a34-1d888229c67b",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "казбек валиев.txt"
+    },
+    "content_length": 801,
+    "word_count": 107
+  },
+  {
+    "chunk_id": "ef5ee338-6fe6-4e72-abe0-5d5ab969cbb7",
+    "metadata": {
+      "source": "катунский хребет.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\катунский хребет.txt",
+      "document_type": "txt",
+      "file_size": 582,
+      "chunk_id": "ef5ee338-6fe6-4e72-abe0-5d5ab969cbb7",
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "original_source": "катунский хребет.txt"
+    },
+    "content_length": 582,
+    "word_count": 81
+  },
+  {
+    "chunk_id": "836ccf17-1cc3-4fbd-a253-820667d65d85",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "836ccf17-1cc3-4fbd-a253-820667d65d85",
+      "chunk_index": 0,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 994,
+    "word_count": 133
+  },
+  {
+    "chunk_id": "c1a80878-c356-452d-8dd9-6d5224482c42",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "c1a80878-c356-452d-8dd9-6d5224482c42",
+      "chunk_index": 1,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 998,
+    "word_count": 153
+  },
+  {
+    "chunk_id": "e0020179-cd1c-4fb1-90dc-7f50311fbeff",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "e0020179-cd1c-4fb1-90dc-7f50311fbeff",
+      "chunk_index": 2,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 988,
+    "word_count": 140
+  },
+  {
+    "chunk_id": "7d0b5bd2-9d1e-4ff5-9c5c-0cfd31496598",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "7d0b5bd2-9d1e-4ff5-9c5c-0cfd31496598",
+      "chunk_index": 3,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 994,
+    "word_count": 144
+  },
+  {
+    "chunk_id": "fe801752-625a-4d70-b57a-16f6d623d1df",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "fe801752-625a-4d70-b57a-16f6d623d1df",
+      "chunk_index": 4,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 996,
+    "word_count": 128
+  },
+  {
+    "chunk_id": "5f8f5d82-b41a-4b2d-a5fa-2edb5dd27bb5",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "5f8f5d82-b41a-4b2d-a5fa-2edb5dd27bb5",
+      "chunk_index": 5,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 997,
+    "word_count": 136
+  },
+  {
+    "chunk_id": "239bfb80-b6e9-4c1a-9121-8279c01346c8",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "239bfb80-b6e9-4c1a-9121-8279c01346c8",
+      "chunk_index": 6,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 997,
+    "word_count": 146
+  },
+  {
+    "chunk_id": "4fa8a09d-abac-41ca-be45-5d1d81919a26",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "4fa8a09d-abac-41ca-be45-5d1d81919a26",
+      "chunk_index": 7,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 997,
+    "word_count": 156
+  },
+  {
+    "chunk_id": "e0f2c3d8-d8d6-4280-8933-4022685058a8",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "e0f2c3d8-d8d6-4280-8933-4022685058a8",
+      "chunk_index": 8,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 993,
+    "word_count": 148
+  },
+  {
+    "chunk_id": "ce0fc5ee-1e20-4fa5-84f3-01ab4ffdcf0c",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "ce0fc5ee-1e20-4fa5-84f3-01ab4ffdcf0c",
+      "chunk_index": 9,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 1000,
+    "word_count": 141
+  },
+  {
+    "chunk_id": "3a999cf4-59fa-4de4-b22e-604a29baf04e",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "3a999cf4-59fa-4de4-b22e-604a29baf04e",
+      "chunk_index": 10,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 994,
+    "word_count": 130
+  },
+  {
+    "chunk_id": "872ad5fd-b36f-4aec-963d-20220d83b83a",
+    "metadata": {
+      "source": "общая история.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\общая история.txt",
+      "document_type": "txt",
+      "file_size": 9835,
+      "chunk_id": "872ad5fd-b36f-4aec-963d-20220d83b83a",
+      "chunk_index": 11,
+      "total_chunks": 12,
+      "original_source": "общая история.txt"
+    },
+    "content_length": 500,
+    "word_count": 68
+  },
+  {
+    "chunk_id": "c37079d0-673d-4766-99b8-fe2d7572eb08",
+    "metadata": {
+      "source": "Пётр Семёнов-Тян-Шанский.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Пётр Семёнов-Тян-Шанский.txt",
+      "document_type": "txt",
+      "file_size": 460,
+      "chunk_id": "c37079d0-673d-4766-99b8-fe2d7572eb08",
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "original_source": "Пётр Семёнов-Тян-Шанский.txt"
+    },
+    "content_length": 460,
+    "word_count": 59
+  },
+  {
+    "chunk_id": "0b6103ef-5f20-40a1-92a5-a1f5eaee6492",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "0b6103ef-5f20-40a1-92a5-a1f5eaee6492",
+      "chunk_index": 0,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 992,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "9b2bfa2b-2eda-48ce-b7b8-86062f5b544c",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "9b2bfa2b-2eda-48ce-b7b8-86062f5b544c",
+      "chunk_index": 1,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 996,
+    "word_count": 148
+  },
+  {
+    "chunk_id": "df608014-b350-44e6-a693-165a37d58bb7",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "df608014-b350-44e6-a693-165a37d58bb7",
+      "chunk_index": 2,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 1000,
+    "word_count": 151
+  },
+  {
+    "chunk_id": "5f310687-8fb2-46a0-bf48-846b7d82205f",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "5f310687-8fb2-46a0-bf48-846b7d82205f",
+      "chunk_index": 3,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 998,
+    "word_count": 140
+  },
+  {
+    "chunk_id": "35f17d51-643d-4a0d-972b-5c146bc96621",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "35f17d51-643d-4a0d-972b-5c146bc96621",
+      "chunk_index": 4,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 994,
+    "word_count": 149
+  },
+  {
+    "chunk_id": "c036c9c3-cd62-4361-a931-9400c4f25280",
+    "metadata": {
+      "source": "памир.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\памир.txt",
+      "document_type": "txt",
+      "file_size": 4789,
+      "chunk_id": "c036c9c3-cd62-4361-a931-9400c4f25280",
+      "chunk_index": 5,
+      "total_chunks": 6,
+      "original_source": "памир.txt"
+    },
+    "content_length": 550,
+    "word_count": 96
+  },
+  {
+    "chunk_id": "a54bed71-12af-43db-8613-8433190f7379",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "a54bed71-12af-43db-8613-8433190f7379",
+      "chunk_index": 0,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 988,
+    "word_count": 124
+  },
+  {
+    "chunk_id": "ac273bc8-cfde-4b52-9578-f72b0630460d",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "ac273bc8-cfde-4b52-9578-f72b0630460d",
+      "chunk_index": 1,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 994,
+    "word_count": 126
+  },
+  {
+    "chunk_id": "477f43ed-23d2-4fe5-a876-7cf4e4ddd1b8",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "477f43ed-23d2-4fe5-a876-7cf4e4ddd1b8",
+      "chunk_index": 2,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 997,
+    "word_count": 133
+  },
+  {
+    "chunk_id": "da397c44-4b48-407e-9404-1d3db285f4e6",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "da397c44-4b48-407e-9404-1d3db285f4e6",
+      "chunk_index": 3,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 993,
+    "word_count": 137
+  },
+  {
+    "chunk_id": "98c13d37-4d73-48ee-bfdf-363cd5227985",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "98c13d37-4d73-48ee-bfdf-363cd5227985",
+      "chunk_index": 4,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 993,
+    "word_count": 130
+  },
+  {
+    "chunk_id": "7da44b6e-de8d-489c-bfc2-0d6ffd10b36d",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "7da44b6e-de8d-489c-bfc2-0d6ffd10b36d",
+      "chunk_index": 5,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 1000,
+    "word_count": 132
+  },
+  {
+    "chunk_id": "60a15aa8-0731-4506-8036-efd0e6d0c013",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "60a15aa8-0731-4506-8036-efd0e6d0c013",
+      "chunk_index": 6,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 996,
+    "word_count": 131
+  },
+  {
+    "chunk_id": "434906ab-76b1-40ee-9d4a-8b3b3419fdff",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "434906ab-76b1-40ee-9d4a-8b3b3419fdff",
+      "chunk_index": 7,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 997,
+    "word_count": 134
+  },
+  {
+    "chunk_id": "80352df2-bb9b-49c9-a03b-96b9038ae7dd",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "80352df2-bb9b-49c9-a03b-96b9038ae7dd",
+      "chunk_index": 8,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 990,
+    "word_count": 132
+  },
+  {
+    "chunk_id": "ad160563-1fcb-4f84-a6a4-8eef6ff55217",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "ad160563-1fcb-4f84-a6a4-8eef6ff55217",
+      "chunk_index": 9,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 995,
+    "word_count": 126
+  },
+  {
+    "chunk_id": "031931ca-38c2-4830-abf1-e93f3f029c59",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "031931ca-38c2-4830-abf1-e93f3f029c59",
+      "chunk_index": 10,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 994,
+    "word_count": 137
+  },
+  {
+    "chunk_id": "5104b308-6024-4c72-8d11-dda63adbcc9b",
+    "metadata": {
+      "source": "Петр Семенов.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Петр Семенов.txt",
+      "document_type": "txt",
+      "file_size": 9527,
+      "chunk_id": "5104b308-6024-4c72-8d11-dda63adbcc9b",
+      "chunk_index": 11,
+      "total_chunks": 12,
+      "original_source": "Петр Семенов.txt"
+    },
+    "content_length": 213,
+    "word_count": 28
+  },
+  {
+    "chunk_id": "02ca98fc-7008-4a7b-8152-7972d05f7269",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "02ca98fc-7008-4a7b-8152-7972d05f7269",
+      "chunk_index": 0,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 993,
+    "word_count": 139
+  },
+  {
+    "chunk_id": "d3d7fa6a-67a3-412e-a5aa-30276384d98e",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "d3d7fa6a-67a3-412e-a5aa-30276384d98e",
+      "chunk_index": 1,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 998,
+    "word_count": 142
+  },
+  {
+    "chunk_id": "e4bfc185-4878-46c8-805a-6989a33c2615",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "e4bfc185-4878-46c8-805a-6989a33c2615",
+      "chunk_index": 2,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 992,
+    "word_count": 137
+  },
+  {
+    "chunk_id": "05f0c4fa-8b1e-489a-9953-fd9dbea64217",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "05f0c4fa-8b1e-489a-9953-fd9dbea64217",
+      "chunk_index": 3,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 995,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "4d7788bf-0a18-4974-8ff9-2daa8237ca62",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "4d7788bf-0a18-4974-8ff9-2daa8237ca62",
+      "chunk_index": 4,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 993,
+    "word_count": 148
+  },
+  {
+    "chunk_id": "42f71e34-bb42-4fdf-a933-9c8e94e1a4d6",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "42f71e34-bb42-4fdf-a933-9c8e94e1a4d6",
+      "chunk_index": 5,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 1000,
+    "word_count": 135
+  },
+  {
+    "chunk_id": "eeb3aa62-fcaa-4f78-9cd6-4a1799048635",
+    "metadata": {
+      "source": "пик коммунизма.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик коммунизма.txt",
+      "document_type": "txt",
+      "file_size": 5458,
+      "chunk_id": "eeb3aa62-fcaa-4f78-9cd6-4a1799048635",
+      "chunk_index": 6,
+      "total_chunks": 7,
+      "original_source": "пик коммунизма.txt"
+    },
+    "content_length": 368,
+    "word_count": 47
+  },
+  {
+    "chunk_id": "31cd80fc-7ad7-4439-89c6-c45bb59fa74a",
+    "metadata": {
+      "source": "пик победы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик победы.txt",
+      "document_type": "txt",
+      "file_size": 2496,
+      "chunk_id": "31cd80fc-7ad7-4439-89c6-c45bb59fa74a",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "пик победы.txt"
+    },
+    "content_length": 995,
+    "word_count": 143
+  },
+  {
+    "chunk_id": "059641ef-088f-4d7c-b4fe-9f0a3bcab52b",
+    "metadata": {
+      "source": "пик победы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик победы.txt",
+      "document_type": "txt",
+      "file_size": 2496,
+      "chunk_id": "059641ef-088f-4d7c-b4fe-9f0a3bcab52b",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "пик победы.txt"
+    },
+    "content_length": 999,
+    "word_count": 125
+  },
+  {
+    "chunk_id": "45f5a1a0-f880-420b-93cb-56efc5ffc42b",
+    "metadata": {
+      "source": "пик победы.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\пик победы.txt",
+      "document_type": "txt",
+      "file_size": 2496,
+      "chunk_id": "45f5a1a0-f880-420b-93cb-56efc5ffc42b",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "пик победы.txt"
+    },
+    "content_length": 787,
+    "word_count": 111
+  },
+  {
+    "chunk_id": "9975f3b2-2145-4d05-a293-bb1b33ca3f7b",
+    "metadata": {
+      "source": "погребецкий.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\погребецкий.txt",
+      "document_type": "txt",
+      "file_size": 2198,
+      "chunk_id": "9975f3b2-2145-4d05-a293-bb1b33ca3f7b",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "погребецкий.txt"
+    },
+    "content_length": 994,
+    "word_count": 129
+  },
+  {
+    "chunk_id": "42a25347-242c-4533-920d-7d2fb45cc4fb",
+    "metadata": {
+      "source": "погребецкий.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\погребецкий.txt",
+      "document_type": "txt",
+      "file_size": 2198,
+      "chunk_id": "42a25347-242c-4533-920d-7d2fb45cc4fb",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "погребецкий.txt"
+    },
+    "content_length": 998,
+    "word_count": 134
+  },
+  {
+    "chunk_id": "5ceacac4-90ec-4f4d-bf84-20889ef6f095",
+    "metadata": {
+      "source": "погребецкий.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\погребецкий.txt",
+      "document_type": "txt",
+      "file_size": 2198,
+      "chunk_id": "5ceacac4-90ec-4f4d-bf84-20889ef6f095",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "погребецкий.txt"
+    },
+    "content_length": 498,
+    "word_count": 64
+  },
+  {
+    "chunk_id": "ed3dcb75-5724-40f7-8b30-65fa9997780c",
+    "metadata": {
+      "source": "сванетия.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\сванетия.txt",
+      "document_type": "txt",
+      "file_size": 1242,
+      "chunk_id": "ed3dcb75-5724-40f7-8b30-65fa9997780c",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "original_source": "сванетия.txt"
+    },
+    "content_length": 999,
+    "word_count": 123
+  },
+  {
+    "chunk_id": "6520c367-efa1-4889-bd2d-29d8dc84162e",
+    "metadata": {
+      "source": "сванетия.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\сванетия.txt",
+      "document_type": "txt",
+      "file_size": 1242,
+      "chunk_id": "6520c367-efa1-4889-bd2d-29d8dc84162e",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "original_source": "сванетия.txt"
+    },
+    "content_length": 389,
+    "word_count": 44
+  },
+  {
+    "chunk_id": "e0515d60-1e1c-49b2-8c22-da63e7c2bbd6",
+    "metadata": {
+      "source": "сванетия_2.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\сванетия_2.txt",
+      "document_type": "txt",
+      "file_size": 2078,
+      "chunk_id": "e0515d60-1e1c-49b2-8c22-da63e7c2bbd6",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "сванетия_2.txt"
+    },
+    "content_length": 1000,
+    "word_count": 133
+  },
+  {
+    "chunk_id": "b7793fa4-319c-4dec-b607-8b1feb68ecc6",
+    "metadata": {
+      "source": "сванетия_2.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\сванетия_2.txt",
+      "document_type": "txt",
+      "file_size": 2078,
+      "chunk_id": "b7793fa4-319c-4dec-b607-8b1feb68ecc6",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "сванетия_2.txt"
+    },
+    "content_length": 997,
+    "word_count": 127
+  },
+  {
+    "chunk_id": "6f021ab8-3de4-4ac5-b9eb-a0868a21e694",
+    "metadata": {
+      "source": "сванетия_2.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\сванетия_2.txt",
+      "document_type": "txt",
+      "file_size": 2078,
+      "chunk_id": "6f021ab8-3de4-4ac5-b9eb-a0868a21e694",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "сванетия_2.txt"
+    },
+    "content_length": 370,
+    "word_count": 51
+  },
+  {
+    "chunk_id": "fc8abc0a-3eb9-4058-9a1e-86241ea14b4e",
+    "metadata": {
+      "source": "ушба.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\ушба.txt",
+      "document_type": "txt",
+      "file_size": 1169,
+      "chunk_id": "fc8abc0a-3eb9-4058-9a1e-86241ea14b4e",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "original_source": "ушба.txt"
+    },
+    "content_length": 998,
+    "word_count": 138
+  },
+  {
+    "chunk_id": "191e1bea-24b6-430b-8c4c-72471427bfa3",
+    "metadata": {
+      "source": "ушба.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\ушба.txt",
+      "document_type": "txt",
+      "file_size": 1169,
+      "chunk_id": "191e1bea-24b6-430b-8c4c-72471427bfa3",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "original_source": "ушба.txt"
+    },
+    "content_length": 318,
+    "word_count": 47
+  },
+  {
+    "chunk_id": "2c351f14-9655-45c7-aaf7-862aae2fe7cd",
+    "metadata": {
+      "source": "Хан Тенгри.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хан Тенгри.txt",
+      "document_type": "txt",
+      "file_size": 2371,
+      "chunk_id": "2c351f14-9655-45c7-aaf7-862aae2fe7cd",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "Хан Тенгри.txt"
+    },
+    "content_length": 999,
+    "word_count": 131
+  },
+  {
+    "chunk_id": "d0690518-e2ba-45f0-99f7-030269b6c04e",
+    "metadata": {
+      "source": "Хан Тенгри.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хан Тенгри.txt",
+      "document_type": "txt",
+      "file_size": 2371,
+      "chunk_id": "d0690518-e2ba-45f0-99f7-030269b6c04e",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "Хан Тенгри.txt"
+    },
+    "content_length": 999,
+    "word_count": 124
+  },
+  {
+    "chunk_id": "d3902811-c8da-4e58-8212-d6361cc91183",
+    "metadata": {
+      "source": "Хан Тенгри.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хан Тенгри.txt",
+      "document_type": "txt",
+      "file_size": 2371,
+      "chunk_id": "d3902811-c8da-4e58-8212-d6361cc91183",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "Хан Тенгри.txt"
+    },
+    "content_length": 657,
+    "word_count": 92
+  },
+  {
+    "chunk_id": "4b1f50ee-40a8-4779-8fd2-c21bbc1c3901",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "4b1f50ee-40a8-4779-8fd2-c21bbc1c3901",
+      "chunk_index": 0,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 999,
+    "word_count": 145
+  },
+  {
+    "chunk_id": "84b92c29-1d07-4e92-ae59-d4a88cc46423",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "84b92c29-1d07-4e92-ae59-d4a88cc46423",
+      "chunk_index": 1,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 992,
+    "word_count": 163
+  },
+  {
+    "chunk_id": "63084898-8d16-49a8-b538-994d415d46a9",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "63084898-8d16-49a8-b538-994d415d46a9",
+      "chunk_index": 2,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 990,
+    "word_count": 153
+  },
+  {
+    "chunk_id": "c8f76680-ec90-47a0-8891-3e8a9669d7b4",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "c8f76680-ec90-47a0-8891-3e8a9669d7b4",
+      "chunk_index": 3,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 999,
+    "word_count": 145
+  },
+  {
+    "chunk_id": "987b2d35-3c9c-4622-916a-25433a164014",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "987b2d35-3c9c-4622-916a-25433a164014",
+      "chunk_index": 4,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 997,
+    "word_count": 150
+  },
+  {
+    "chunk_id": "3b9ff43f-877c-41e2-9b66-607b759aa610",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "3b9ff43f-877c-41e2-9b66-607b759aa610",
+      "chunk_index": 5,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 1000,
+    "word_count": 160
+  },
+  {
+    "chunk_id": "f506823b-f0f3-4186-9a2a-27b9e82f5299",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "f506823b-f0f3-4186-9a2a-27b9e82f5299",
+      "chunk_index": 6,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 997,
+    "word_count": 152
+  },
+  {
+    "chunk_id": "cd4145a6-122b-443d-bd6e-783d1a3d171d",
+    "metadata": {
+      "source": "Хергиани.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\Хергиани.txt",
+      "document_type": "txt",
+      "file_size": 6218,
+      "chunk_id": "cd4145a6-122b-443d-bd6e-783d1a3d171d",
+      "chunk_index": 7,
+      "total_chunks": 8,
+      "original_source": "Хергиани.txt"
+    },
+    "content_length": 268,
+    "word_count": 43
+  },
+  {
+    "chunk_id": "4f925d76-2c26-46cb-b7c5-a8d9e94ff0bc",
+    "metadata": {
+      "source": "шхара.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\шхара.txt",
+      "document_type": "txt",
+      "file_size": 1225,
+      "chunk_id": "4f925d76-2c26-46cb-b7c5-a8d9e94ff0bc",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "original_source": "шхара.txt"
+    },
+    "content_length": 999,
+    "word_count": 140
+  },
+  {
+    "chunk_id": "3ea1e15b-ead8-4e49-815c-82f2380e351c",
+    "metadata": {
+      "source": "шхара.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\шхара.txt",
+      "document_type": "txt",
+      "file_size": 1225,
+      "chunk_id": "3ea1e15b-ead8-4e49-815c-82f2380e351c",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "original_source": "шхара.txt"
+    },
+    "content_length": 373,
+    "word_count": 51
+  },
+  {
+    "chunk_id": "7decc5bc-3051-4522-a500-9f4d8fdfddd3",
+    "metadata": {
+      "source": "экспедиция на эверест.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\экспедиция на эверест.txt",
+      "document_type": "txt",
+      "file_size": 2220,
+      "chunk_id": "7decc5bc-3051-4522-a500-9f4d8fdfddd3",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "original_source": "экспедиция на эверест.txt"
+    },
+    "content_length": 999,
+    "word_count": 129
+  },
+  {
+    "chunk_id": "7cdcb4b4-cebd-4ed3-a191-966092356de3",
+    "metadata": {
+      "source": "экспедиция на эверест.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\экспедиция на эверест.txt",
+      "document_type": "txt",
+      "file_size": 2220,
+      "chunk_id": "7cdcb4b4-cebd-4ed3-a191-966092356de3",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "original_source": "экспедиция на эверест.txt"
+    },
+    "content_length": 989,
+    "word_count": 126
+  },
+  {
+    "chunk_id": "2777bf21-0da9-403e-86d8-bd59e3a2bced",
+    "metadata": {
+      "source": "экспедиция на эверест.txt",
+      "file_path": "knowledge_base/soviet_mountaineering\\экспедиция на эверест.txt",
+      "document_type": "txt",
+      "file_size": 2220,
+      "chunk_id": "2777bf21-0da9-403e-86d8-bd59e3a2bced",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "original_source": "экспедиция на эверест.txt"
+    },
+    "content_length": 524,
+    "word_count": 69
+  }
+]

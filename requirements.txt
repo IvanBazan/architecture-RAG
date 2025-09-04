@@ -1,0 +1,12 @@
+#index
+
+chromadb==1.0.20
+langchain-text-splitters==0.3.9
+langchain-huggingface==0.3.1
+langchain-core==0.3.74
+langchain-chroma==0.2.5
+sentence-transformers==5.1.0
+
+#LLM and RAG
+langchain==0.3.27
+langchain-ollama==0.3.7
