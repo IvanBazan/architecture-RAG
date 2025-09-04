@@ -1,0 +1,1 @@
+решение задания в project_template.md
